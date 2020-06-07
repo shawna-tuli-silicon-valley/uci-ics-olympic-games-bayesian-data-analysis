@@ -1,4 +1,4 @@
-# Bayesian Statistics
+# Bayesian Modeling
 
 120 Years of Summer and Winter Olympic Games (Athens 1896 to Rio 2016) 
 
