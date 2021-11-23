@@ -2,7 +2,7 @@
 
 STATS 115/205 at Donald Bren School of Information and Computer Sciences at the University of California, Irvine. 
 
-We used "Athlete_events.csv" from Kaggle (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results), an ~40MB dataset, and filtered on the U.S. for this analysis.
+We used ["Athlete_events.csv"](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle, an ~40MB dataset, and filtered on the U.S. for this analysis.
 
 # Presentation
 
