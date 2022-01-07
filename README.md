@@ -2,7 +2,7 @@
 
 STATS 115/205 at Donald Bren School of Information and Computer Sciences at the University of California, Irvine. 
 
-We used ["Athlete_events.csv"](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle and filtered on the U.S. for this analysis. We applied Bayesian statistical modeling techniques on an ~40MB Olympic Sports dataset, and fitted a logistic regression model using RStanArm's generalized linear models and Markov chain Monte Carlo to estimate parameter distributions for the model.
+We used ["Athlete_events.csv"](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle and filtered on the U.S. for this analysis. We applied Bayesian statistical modeling techniques on an ~40MB Olympic Sports dataset, and fitted a logistic regression model using RStanArm's generalized linear models and Markov chain Monte Carlo to estimate its parameter distributions.
 
 ![image](https://user-images.githubusercontent.com/19508013/148614600-49bee0e9-4004-4c44-a6f4-edc64f5865aa.png)
 
