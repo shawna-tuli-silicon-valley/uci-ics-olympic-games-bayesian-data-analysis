@@ -1,3 +1,5 @@
+![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165651784-af08a317-802b-40c7-8d10-ced0e4b0235e.png)
+
 #  Olympic Games Bayesian Prediction 🇺🇸🏅
 
 STATS 115/205 at Donald Bren School of Information and Computer Sciences at the University of California, Irvine. 
